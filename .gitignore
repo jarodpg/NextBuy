@@ -1,0 +1,6 @@
+datasets-project/
+datasets-cleaned/
+venv/
+.vscode/
+*.log
+Thumbs.db
