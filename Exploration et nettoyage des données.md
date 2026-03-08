@@ -12,7 +12,22 @@ Date :
 ---
 
 ## Objectif de l’étape
-Décrire ce que tu veux accomplir.
+Nettoyage order_product.csv :
+- dropna
+- conversion en entier
+
+Nettoyage orders.csv :
+- dropna
+- conversion en entier
+
+Nettoyage products.csv :
+- conversion en entier et str
+- décodage des entités HTML
+- suppression des product_name en double de manière case insensitive
+
+Fusion en un dataset :
+- Fusion des departments et aisles ID dans products.csv pour en récupérer les noms
+- Fusion des orders et products ID dans order_products.csv pour en récupérer l'ensemble des informations et grouper le tout en un dataset facilement exploitable
 
 ---
 
