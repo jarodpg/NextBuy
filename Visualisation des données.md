@@ -17,7 +17,8 @@ Ces deux visualisations sous forme de graphiques ne sont pas très pertinentes ,
 - Nombre de ventes par département sous forme d'histogramme permettant de visualiser quelle catégories faisaient le plus de ventes.
 - Top 10 des produits les plus vendus sous forme d'histogramme.
 - Répartition des commandes par heure sous forme de diagramme ciruclaire , petit bémol , manque de lisiilité donc peu pertinent.
-- Nombre de commandes par heure sous forme d'histogramme permettant de voir les heures où les clients sont les plus suceptibles d'acheter. 
+- Nombre de commandes par heure sous forme d'histogramme permettant de voir les heures où les clients sont les plus suceptibles d'acheter.
+- Produits racheté après un autre produit
 ---
 
 ## Résultats
