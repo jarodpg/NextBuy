@@ -1,8 +1,8 @@
-# Documentation d’étape — Next Buy
+# Documentation d’étape — Visualisation des données — Next Buy
 
 ## Objectif de l’étape
 
-Une fois le nettoyage de l'ensemble des donneés qui nous était fournies effectuée , nous avons procéder à la visualisation de celle-ci. En effet nous avons chercher à produire des graphiques , des diagrammes et d'autres types de visualisation qui nous semblaient pertinents afin de comprendre plus en profondeur le jeu de données.
+Une fois le nettoyage de l'ensemble des données qui nous étaient fournies effectué, nous avons procédé à la visualisation de celles-ci. En effet, nous avons cherché à produire des graphiques, des diagrammes et d'autres types de visualisations qui nous semblaient pertinents afin de comprendre plus en profondeur le jeu de données.
 ---
 
 ## Actions réalisées
