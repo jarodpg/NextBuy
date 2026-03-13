@@ -14,7 +14,8 @@ Pour plus d'informations concernant nos choix et raisonnements pour chaque parti
 Modèles :
 
 - [Prédiction de la taille d'un panier pour un acheteur d'alcool](/Documentation/Modèles/Prédiction%20de%20la%20taille%20d'un%20panier%20pour%20un%20acheteur%20d'alcool.md)
-
+- [Prédiction du nombre de jours avant une prochaine commande](/Documentation/Modèles/Prédire%20le%20nombre%20de%20jour%20avant%20une%20prochaine%20commande.md)
+- [Prédiction du premier article acheté](/Documentation/Modèles/Prédiction%20du%20premier%20article%20d'un%20panier.md)
 
 ---
 
