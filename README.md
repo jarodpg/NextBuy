@@ -4,13 +4,17 @@
 Dans le cadre du projet **NextBuy** durant notre 1ère année de Bachelor, nous avons travaillé sur le domaine de la data science avec plusieurs datasets.  
 Nos missions :  
 - Comprendre, explorer et filtrer les datasets : [nextbuy_eda.ipynb](./nextbuy_eda.ipynb)
-- Créer des modèles de prédiction: [nextbuy_model.ipynb](./Modèles)
+- Créer des modèles de prédiction: [Pred_contenu_panier_alcool.ipynb](./Modèles/Pred_contenu_panier_alcool.ipynb), [Pred_nb_jour_avant_commande.ipynb](./Modèles/Pred_nb_jour_avant_commande.ipynb), [Pred_premier_article.ipynb](./Modèles/Pred_premier_article.ipynb)
 - Visualiser les données: [nextbuy_visualisation.ipynb](./nextbuy_visualisation.ipynb)
 
 Pour plus d'informations concernant nos choix et raisonnements pour chaque partie, consulter les ressources suivantes : 
 - [Exploration et nettoyage des données](/Documentation/Exploration%20et%20nettoyage%20des%20données.md)
 - [Visualisation des données](/Documentation/Visualisation%20des%20données.md)
+
+Modèles :
+
 - [Prédiction de la taille d'un panier pour un acheteur d'alcool](/Documentation/Modèles/Prédiction%20de%20la%20taille%20d'un%20panier%20pour%20un%20acheteur%20d'alcool.md)
+
 
 ---
 
