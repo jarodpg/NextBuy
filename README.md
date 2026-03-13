@@ -10,7 +10,7 @@ Nos missions :
 Pour plus d'informations concernant nos choix et raisonnements pour chaque partie, consulter les ressources suivantes : 
 - [Exploration et nettoyage des données](/Documentation/Exploration%20et%20nettoyage%20des%20données.md)
 - [Visualisation des données](/Documentation/Visualisation%20des%20données.md)
-- [Modèle de prédiction](/Documentation/Modèle%20de%20prédiction.md)
+- [Prédiction de la taille d'un panier pour un acheteur d'alcool](/Documentation/Modèles/Prédiction%20de%20la%20taille%20d'un%20panier%20pour%20un%20acheteur%20d'alcool.md)
 
 ---
 
