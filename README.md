@@ -4,7 +4,7 @@
 Dans le cadre du projet **NextBuy** durant notre 1ère année de Bachelor, nous avons travaillé sur le domaine de la data science avec plusieurs datasets.  
 Nos missions :  
 - Comprendre, explorer et filtrer les datasets : [nextbuy_eda.ipynb](./nextbuy_eda.ipynb)
-- Créer des modèles de prédiction: [nextbuy_model.ipynb](./nextbuy_model.ipynb)
+- Créer des modèles de prédiction: [nextbuy_model.ipynb](./Modèles)
 - Visualiser les données: [nextbuy_visualisation.ipynb](./nextbuy_visualisation.ipynb)
 
 Pour plus d'informations concernant nos choix et raisonnements pour chaque partie, consulter les ressources suivantes : 
@@ -35,6 +35,7 @@ Pour plus d'informations concernant nos choix et raisonnements pour chaque parti
     - seaborn
     - jupyterlab==4.5.4
     - ipykernel==7.2.0
+    - lightgbm==4.6.0
 
 ## 💻 Setup
 
