@@ -11,6 +11,17 @@ Pour plus d'informations concernant nos choix et raisonnements pour chaque parti
 - [Exploration et nettoyage des données](/Documentation/Exploration%20et%20nettoyage%20des%20données.md)
 - [Visualisation des données](/Documentation/Visualisation%20des%20données.md)
 - [Modèle de prédiction](/Documentation/Modèle%20de%20prédiction.md)
+
+---
+
+## 🚀 Fonctionnalités principales
+
+- Tri et fusion de plusieurs datasets afin de créer un dataset unique et exploitable.
+- Multitudes de visualisation des données facilitant la compréhension des données fournies
+- Prédiction de la taille du panier d'un client ayant acheté de l'alcool : utilisation d'un modèle de prédiction par régression
+- Prédiction de la taille du panier d'un client : utilisation d'un modèle de prédiction par régression
+
+
 ---
 
 ## 🛠️ Prérequis
