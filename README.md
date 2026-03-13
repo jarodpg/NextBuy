@@ -14,7 +14,7 @@ Pour plus d'informations concernant nos choix et raisonnements pour chaque parti
 
 ---
 
-## 🚀 Fonctionnalités principales
+## 🚀 Fonctionnalités principales
 
 - Tri et fusion de plusieurs datasets afin de créer un dataset unique et exploitable.
 - Multitudes de visualisation des données facilitant la compréhension des données fournies
